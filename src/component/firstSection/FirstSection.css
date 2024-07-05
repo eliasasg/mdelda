@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    background-color: black;
+    
+}
+.casle{
+
+    background-image: url(../../images/casle.jpg);
+    
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+    background-size: auto;
+	text-align: center;
+	padding: 65px 20px;
+	color: #fff;	
+	margin-bottom: 10px;
+    width: 580px;
+    height: 690px;
+    
+
+}
+.forest{
+    background-image: url(../../images/forest.jpg);
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+    background-size: initial;
+	text-align: center;
+	padding: 65px 20px;
+	color: #fff;	
+	margin-bottom: 10px;
+    width: 580px;
+    height: 690px;
+}

@@ -1,0 +1,38 @@
+.secondContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    background-color: black;
+    
+}
+
+
+.wedStyle{
+    background-image: url(../../images/eldawedstyle.jpg);
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+    background-size: auto;
+	text-align: center;
+	padding: 65px 20px;
+	color: #fff;	
+	margin-bottom: 10px;
+    width: 580px;
+    height: 550px;
+    
+}
+/* .wedLeft{
+    background-image: url(../../images/modelsit.jpg);
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+    background-size: 380px;
+	text-align: center;
+	padding: 65px 20px;
+	color: #fff;	
+	margin-bottom: 10px;
+    width: 580px;
+    height: 550px;
+} */
